@@ -53,9 +53,9 @@ int processInput();
 
 ## Control Mapping
 
-![Controls](imgs/1.jpg)
-![Controls](imgs/2.jpg)
-![Controls](imgs/3.jpg)
+![Controls](./imgs/1.jpg)
+![Controls](./imgs/2.jpg)
+![Controls](./imgs/3.jpg)
 
 
 ## Hardware Components
