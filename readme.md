@@ -1,6 +1,6 @@
 # Robot Car with Ackermann + Differential Steering and 4-DoF Arm
 
-Educational robotics project did for teaching electronics and robotics fundamentals for group of students.
+Educational robotics project did for teaching electronics and robotics fundamentals for group of students. Used with modified dabble esp32 library. Mappings are avalible so anyone can use to teach kid freindly robotics projects.
 
 ## Overview
 
@@ -53,9 +53,11 @@ int processInput();
 
 ## Control Mapping
 
-![Controls](./imgs/1.jpg)
-![Controls](./imgs/2.jpg)
-![Controls](./imgs/3.jpg)
+<p align="center">
+  <img src="imgs/1.jpg"  alt="Controls" height="240"/>
+  <img src="imgs/2.jpg" alt="Controls"     height="240"/>
+  <img src="imgs/3.jpg" alt="Controls"     height="240"/>
+</p>
 
 
 ## Hardware Components
