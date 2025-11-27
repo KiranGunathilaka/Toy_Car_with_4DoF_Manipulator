@@ -1,6 +1,6 @@
 # Robot Car with Ackermann + Differential Steering and 4-DoF Arm
 
-Educational robotics project did for teaching electronics and robotics fundamentals for group of students. Used with modified dabble esp32 library. Patch used Summing the received sequence differentiate. Those Sum Mappings are avalible so anyone can use it in kid freindly robotics projects.
+Educational robotics project did for teaching electronics and robotics fundamentals for group of students. Used with modified dabble esp32 library. Patch used Summing the received sequence to differentiate. Those Sum Mappings are avalible so anyone can use it in kid freindly robotics projects.
 
 ## Overview
 
